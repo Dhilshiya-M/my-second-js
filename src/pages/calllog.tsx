@@ -6,7 +6,7 @@ import {
   TableHead,
   TableRow,
 } from "@/components/ui/table";
-import { Bold } from "lucide-react";
+
 
 const data = [
   { name: "Kyle Jenner", type: "Incoming", duration: "16m 17s", date: "12/Oct/2020" },

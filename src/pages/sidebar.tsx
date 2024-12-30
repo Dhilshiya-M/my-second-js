@@ -1,4 +1,4 @@
-import { Home, Users, Phone, Calendar, BarChart, Settings } from "lucide-react";
+import { Home, Users, Phone, BarChart} from "lucide-react";
 import {
   Sidebar,
   SidebarProvider,
